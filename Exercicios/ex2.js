@@ -10,7 +10,7 @@ let idade = 20;
 let peso = 91;
 let altura = 1.76;
 let imc;
-imc = peso / altura;
+imc = peso / (altura * altura);
 
 
 
